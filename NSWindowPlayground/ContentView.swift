@@ -37,7 +37,11 @@ struct ContentView: View {
             about
                 .tabItem { Text("About") }
         }
-        .tabViewStyle(.grouped)
+        .modify {
+            if #available(macOS 15.0, *) {
+                $0.tabViewStyle(.grouped)
+            }
+        }
         .padding()
         .background {
             WindowAccessor {
